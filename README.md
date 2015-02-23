@@ -114,7 +114,7 @@ a los negocios de la comunidad.
 
 ## 9. Contacto
 - [http://www.meetup.com/quillarb/](http://www.meetup.com/quillarb/)
-- [@colombia_dev](https://twitter.com/rubybaq)
+- [rjmaltamar@gmail.com](mailto: rjmaltamar@gmail.com)
 
 ## 10. Licencia y atribución
 
