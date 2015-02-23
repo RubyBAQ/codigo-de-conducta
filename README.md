@@ -85,8 +85,6 @@ también pueden proporcionar escoltas si un miembro de la comunidad lo siente ne
 
 ## 7. Políticas de Moderación
 
-Estas son las políticas para mantener los estándares de conducta en nuestra comunidad en los canales de Slack, meetups asociados, conferencias, grupos de estudio, y eventos virtuales.
-
 - Palabras que violen las normas de Código de Conducta, incluyendo comentarios odiosos, hirientes, opresivos, o excluyentes, no están permitidos. (Se permite las "malas palabras", pero nunca enfocadas hacia otro usuario/asistente, y nunca de una manera odiosa.)
 - Comentarios que los organizadores encuentran inapropiados tampoco están permitidos, así aparezcan en el código de conducta o no.
 - Los organizadores primero deberán responder a dichos comentarios con una advertencia.
